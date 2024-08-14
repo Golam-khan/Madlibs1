@@ -17,3 +17,23 @@ let output = "The"+ noun1 + "jumped over the" + adjective
 
 console.log(output)
 console.log(7+2)
+
+
+let myNumber= 9**2 
+
+myNumber = myNumber -20 
+
+let isSunny=false
+
+
+let isHungry
+
+
+let quantity ="12"
+
+quantity = Number(quantity)
+
+
+let userName = prompt('Golam khan')
+
+console.log('hello, '+userName)
